@@ -1,6 +1,6 @@
 # my-pgp-key
 Please use this public key if you wish to email me about something.
-'''
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBF/kpVMBDACxKzrzKLlpw2mhi6m8eza8wVHw2ImaUq+w3kiY5AzQ7+aZNkCb
@@ -42,4 +42,5 @@ lTd8UQrzJqkyhm50qOBSwvdLlFFSlw+lL3NAyky/uDCyqxqoDH9fKDNPt/67nZXb
 LvdVMotVJz9rhs4FygT2BqnPv1t/vlaJ1Y6f
 =PDTk
 -----END PGP PUBLIC KEY BLOCK-----
-'''
+```
+
